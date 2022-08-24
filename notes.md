@@ -85,4 +85,11 @@
             yaml file, json file etc. are the files to store data in a particular fasion.  
             we can also use json file, csv file, data base connector directly etc.  
             here we are going to use yaml file.
-        6. 
+        6. create a folder in main folder named config and then create config.yaml.  
+        7. create a folder in housing folder named util and create a file named util.py 
+            and __init__.py file.     
+            util file has all the helper of utility functions.
+        8. create a folder in housing folder named constant and create a file named 
+            __init__.py .
+            define all the constant, and in future also we wil define all the constants in it.  
+        9. 
